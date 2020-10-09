@@ -81,7 +81,7 @@
  *
  *  @since 0.9.3.1
  */
-@property (nonatomic, strong) UIWebView *articleWebView;
+@property (nonatomic, strong) WKWebView *articleWebView;
 
 
 /**
